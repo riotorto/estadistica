@@ -1,1 +1,4 @@
 # estadistica
+
+Sesiones de R.
+
